@@ -1,0 +1,5 @@
+23 1 TR
+bob52e 4 HN
+sal45 3 EC
+dom20 5 MH
+jim30 2 GI

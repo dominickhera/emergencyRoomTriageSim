@@ -1,0 +1,21 @@
+Client List (in Order Processed)
+
+ClientID: cTF4, Priority: 2, Symptom Code: Environmental, Time to get Processed: 0 minutes
+ClientID: TJdU, Priority: 5, Symptom Code: Neurological, Time to get Processed: 30 minutes
+ClientID: EeOJ, Priority: 5, Symptom Code: Ears, mouth, throat, nose, Time to get Processed: 60 minutes
+ClientID: enJA, Priority: 5, Symptom Code: Mental Health, Time to get Processed: 90 minutes
+ClientID: bBoc, Priority: 5, Symptom Code: Gastrointestinal, Time to get Processed: 120 minutes
+ClientID: jpu29PY9n4DnNjjuCV, Priority: 5, Symptom Code: Cardiovascular, Time to get Processed: 150 minutes
+ClientID: ddnC, Priority: 5, Symptom Code: Environmental, Time to get Processed: 180 minutes
+ClientID: 5rOP, Priority: 4, Symptom Code: Environmental, Time to get Processed: 210 minutes
+ClientID: FjNC, Priority: 4, Symptom Code: Substance Abuse, Time to get Processed: 240 minutes
+ClientID: OcTAZvu9Yy, Priority: 4, Symptom Code: Opthalmology, Time to get Processed: 270 minutes
+ClientID: Xvi2MOQIvb, Priority: 4, Symptom Code: Trauma, Time to get Processed: 300 minutes
+ClientID: DCrCrrt1BV, Priority: 5, Symptom Code: Respiratory, Time to get Processed: 330 minutes
+ClientID: FtBp, Priority: 5, Symptom Code: Trauma, Time to get Processed: 360 minutes
+ClientID: 9FuZ, Priority: 4, Symptom Code: Substance Abuse, Time to get Processed: 390 minutes
+ClientID: FLhCuuSkXD, Priority: 4, Symptom Code: Skin, Time to get Processed: 420 minutes
+ClientID: vBhA, Priority: 3, Symptom Code: Opthalmology, Time to get Processed: 450 minutes
+ClientID: QE2b, Priority: 4, Symptom Code: Respiratory, Time to get Processed: 480 minutes
+ClientID: Px5UCmiSrQ, Priority: 3, Symptom Code: Opthalmology, Time to get Processed: 510 minutes
+ClientID: u4bM8eeges, Priority: 3, Symptom Code: Gastrointestinal, Time to get Processed: 540 minutes
